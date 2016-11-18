@@ -1,5 +1,5 @@
 #期中作业:
-###完整的推导角动量算符及其z轴分量的本征值、本征函数
+###完整的推导角动量算符及其z轴分量![](http://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20%5Chat%7BL%5E2%7D%2C%5Chat%7BL_z%7D)的本征值、本征函数
 ####*姚贵斌 2014301020066*
 ------
 
@@ -13,4 +13,4 @@
 
 ![](http://p1.bpimg.com/578852/7734991c5f7e62aa.jpg)
 
-![](http://p1.bpimg.com/578852/14be1f29276fa45e.jpg)
+![](http://i1.piimg.com/578852/a5faab475a2b1e0b.jpg)
