@@ -9,3 +9,4 @@
 - [x] [第五章1，2，3，4，5，6](https://github.com/Guibeen/Quantum_Mechanics_2014301020066/blob/master/Exercises/Chapter5-1~6.md)
 - [x] [第五章7，8，9，10，11，12(新增)](https://www.zybuluo.com/Guibeen/note/600228)
 - [x] [第六章 1~3;第七章 1、2](https://www.zybuluo.com/Guibeen/note/600278)
+- [x] [量子力学Ch7-3,4; Ch9-1,2,3](https://www.zybuluo.com/Guibeen/note/607670)
